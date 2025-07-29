@@ -1,0 +1,7 @@
+a {
+  @apply text-sm border rounded font-bold py-2 px-6;
+}
+
+i {
+  @apply mr-1 bg-orange-100 border border-orange-200 rounded-full w-[21px] h-[21px] inline-block text-center text-orange-600;
+}
